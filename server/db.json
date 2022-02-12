@@ -1,0 +1,22 @@
+{
+    "goods": [
+        {
+            "id": 1,
+            "name": "banana"
+        },
+        {
+            "id": 2,
+            "name": "apple"
+        },
+        {
+            "id": 3,
+            "name": "pineapple"
+        }
+    ],
+    "media": [
+        {
+            "id": 88,
+            "name": "1+1"
+        }
+    ]
+}
